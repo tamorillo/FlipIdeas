@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Lienzo cuadrado transparente para asegurar la proporción -->
+    <item>
+        <shape android:shape="rectangle">
+            <size android:width="200dp" android:height="200dp"/>
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+
+    <!-- Logo centrado con margen lateral extra (90dp) para evitar el recorte circular de Android 12 -->
+    <item
+        android:gravity="center"
+        android:left="90dp"
+        android:right="90dp">
+        <bitmap
+            android:src="@drawable/splash"
+            android:gravity="center"
+            android:filter="true"
+            android:mipMap="false" />
+    </item>
+</layer-list>
