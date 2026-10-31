@@ -1,7 +1,3 @@
-# 💡 FlipIdeas
-
-**FlipIdeas** es una aplicación moderna y minimalista diseñada para capturar, organizar y proteger tus ideas más brillantes antes de que se escapen. Construida con **Flutter**, ofrece una experiencia fluida y segura para mentes creativas.
-
 <p align="center">
   <img src="assets/readme/logo.png" width="300" alt="Logo FlipIdeas">
   <br><br>
@@ -9,6 +5,8 @@
   <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
 </p>
+
+**FlipIdeas** es una aplicación moderna y minimalista diseñada para capturar, organizar y proteger tus ideas más brillantes antes de que se escapen. Construida con **Flutter**, ofrece una experiencia fluida y segura para mentes creativas.
 
 ## ✨ Características Principales
 
@@ -128,5 +126,8 @@ Si quieres probar el proyecto localmente:
 Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
+<p align="center">
+  <strong>Hecho con ❤️ por Tamara M.</strong>
+</p>
 
-Hecho con ❤️ por [Tamara M.](https://github.com/tamorillo)
+
